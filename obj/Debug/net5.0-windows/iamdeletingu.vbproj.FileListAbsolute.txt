@@ -1,0 +1,36 @@
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\bin\Debug\net5.0-windows\iamdeletingu.exe
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\bin\Debug\net5.0-windows\iamdeletingu.deps.json
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\bin\Debug\net5.0-windows\iamdeletingu.runtimeconfig.json
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\bin\Debug\net5.0-windows\iamdeletingu.runtimeconfig.dev.json
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\bin\Debug\net5.0-windows\iamdeletingu.dll
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\bin\Debug\net5.0-windows\ref\iamdeletingu.dll
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\bin\Debug\net5.0-windows\iamdeletingu.pdb
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\obj\Debug\net5.0-windows\iamdeletingu.vbprojAssemblyReference.cache
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\obj\Debug\net5.0-windows\iamdeletingu.Form1.resources
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\obj\Debug\net5.0-windows\iamdeletingu.vbproj.GenerateResource.cache
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\obj\Debug\net5.0-windows\iamdeletingu.GeneratedMSBuildEditorConfig.editorconfig
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\obj\Debug\net5.0-windows\iamdeletingu.AssemblyInfoInputs.cache
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\obj\Debug\net5.0-windows\iamdeletingu.AssemblyInfo.vb
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\obj\Debug\net5.0-windows\iamdeletingu.vbproj.CoreCompileInputs.cache
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\obj\Debug\net5.0-windows\iamdeletingu.dll
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\obj\Debug\net5.0-windows\ref\iamdeletingu.dll
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\obj\Debug\net5.0-windows\iamdeletingu.pdb
+C:\$$new\TNC TECHNOLOGIE\New folder\iamdeletingu\obj\Debug\net5.0-windows\iamdeletingu.genruntimeconfig.cache
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\bin\Debug\net5.0-windows\iamdeletingu.exe
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\bin\Debug\net5.0-windows\iamdeletingu.deps.json
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\bin\Debug\net5.0-windows\iamdeletingu.runtimeconfig.json
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\bin\Debug\net5.0-windows\iamdeletingu.runtimeconfig.dev.json
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\bin\Debug\net5.0-windows\iamdeletingu.dll
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\bin\Debug\net5.0-windows\ref\iamdeletingu.dll
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\bin\Debug\net5.0-windows\iamdeletingu.pdb
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\obj\Debug\net5.0-windows\iamdeletingu.vbprojAssemblyReference.cache
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\obj\Debug\net5.0-windows\iamdeletingu.Form1.resources
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\obj\Debug\net5.0-windows\iamdeletingu.vbproj.GenerateResource.cache
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\obj\Debug\net5.0-windows\iamdeletingu.GeneratedMSBuildEditorConfig.editorconfig
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\obj\Debug\net5.0-windows\iamdeletingu.AssemblyInfoInputs.cache
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\obj\Debug\net5.0-windows\iamdeletingu.AssemblyInfo.vb
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\obj\Debug\net5.0-windows\iamdeletingu.vbproj.CoreCompileInputs.cache
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\obj\Debug\net5.0-windows\iamdeletingu.dll
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\obj\Debug\net5.0-windows\ref\iamdeletingu.dll
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\obj\Debug\net5.0-windows\iamdeletingu.pdb
+C:\$$new\TNC TECHNOLOGIE\New folder\Quadratic Calc\obj\Debug\net5.0-windows\iamdeletingu.genruntimeconfig.cache
